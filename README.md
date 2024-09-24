@@ -32,6 +32,9 @@ reactor-test
 logback
 maven
 spring-boot-starter-webflux
+springfox-boot-starter
+springfox-swagger-ui
+springfox-swagger2
 
 </pre>
 
@@ -241,4 +244,6 @@ HTTP response code 200 <br/>
 ]
 
 </pre>
+
+TO access swager api documents : http://localhost:9898/swagger-ui/ 
 <br/>
